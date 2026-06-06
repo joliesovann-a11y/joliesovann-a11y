@@ -46,14 +46,6 @@ I am a passionate **Year 1 Data Science and AI Engineering student at CamTech Un
 
 ---
 
-### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joliesovann-a11y&show_icons=true&theme=radical&hide_border=true" alt="Jolie's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joliesovann-a11y&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
----
-
 ### 🤝 Connect with Me
 Let's build something that matters. Feel free to reach out for collaborations, tech chats, or mentorship opportunities!
 
