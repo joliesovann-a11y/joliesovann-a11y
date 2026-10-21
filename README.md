@@ -9,7 +9,6 @@
 ### 🎓 About Me
 I am a passionate **Year 1 Data Science and AI Engineering student at CamTech University**. Driven by a desire to build impactful digital systems, I focus on creating technology solutions that support education, streamline academic workflows, and contribute positively to human society. 
 
-*   🥇 **Academic Milestone:** Achieved a Grade A on the Cambodian National High School Exam (2025).
 *   💡 **Core Mission:** Bridging the gap between complex datasets and real-world humanitarian solutions.
 *   🤖 **Current Focus:** Deep diving into Large Language Models (LLMs), automated data collection, and interactive AI chatbot architectures.
 
