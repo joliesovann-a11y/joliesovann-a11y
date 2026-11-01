@@ -1,4 +1,4 @@
-# 🌟 Hello World, I'm Sovann Jolie! 
+# 🌟 Hello World, I'm Jolie! 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jolie-sovann-1865a5378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
